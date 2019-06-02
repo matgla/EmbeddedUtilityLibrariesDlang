@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/eul-d
+eul-d.so
+eul-d.dylib
+eul-d.dll
+eul-d.a
+eul-d.lib
+eul-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.a

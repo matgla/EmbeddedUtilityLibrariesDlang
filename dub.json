@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Mateusz Stadnik"
+	],
+	"copyright": "Copyright © 2019, Mateusz Stadnik",
+	"description": "Embedded Utility Libraries for DLang",
+	"license": "GPLv3",
+	"name": "eul-d",
+	"targetType": "staticLibrary"
+}
